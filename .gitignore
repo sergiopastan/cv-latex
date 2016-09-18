@@ -1,0 +1,6 @@
+# Executables and others
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
